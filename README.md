@@ -3,6 +3,7 @@
 **A web-based 8-ball pool game**  
 A Typescript adaptation of [8 Ball Pool Game].
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec00fc9d-571d-4244-a35e-e290f042c0be/deploy-status)](https://app.netlify.com/sites/8-ballpoll/deploys)
 ### Reviews
 > _This game has a very simple to use and a friendly UI. And doesn't require much skills in playing this game, if you're bored, you can invite someone in your household or perhaps your special someone to play billiard or if you want a challenging one, you had the option to play against an AI at different difficulty, I guess billiards enthusiast would definitely love this._  
 > **_Joseph Ace Tigas_**, [steemit.com](https://steemit.com/steemhunt/@josephace135/classic-pool-game-an-open-source-web-based-classic-pool-game)  
